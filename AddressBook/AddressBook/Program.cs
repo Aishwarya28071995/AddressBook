@@ -2,7 +2,7 @@
 
 namespace AddressBook
 {
-    internal class Program
+    internal class AddressBookMain
     {
         static void Main(string[] args)
         {
